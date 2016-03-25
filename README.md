@@ -4,3 +4,6 @@ This is a very simple hashtable that can be used to store any kind of informatio
 use of function pointers. In this example it is working for strings, but you can define your own
 functions to customize the creation and deletion of any object. Check the behaviour of
 hashtable_string_create and hashtable_string_destroy functions.
+
+This has been heavily based upon this code:
+https://gist.github.com/tonious/1377667#file-hash-c
